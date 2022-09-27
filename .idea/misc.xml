@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NaumovNewapp/app/src/main/res/layout/activity_adddnewbuyer.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NaumovNewapp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NaumovNewapp/app/src/main/res/layout/addnewbuyer.xml" value="0.33" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/NaumovNewapp/app/src/main/res/layout/gridviewlayout.xml" value="0.358695652173913" />
         <entry key="..\:/VisioStidio/new/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/VisioStidio/new/app/src/main/res/layout/gridviewlayout.xml" value="0.3614583333333333" />
       </map>
